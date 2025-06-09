@@ -1,9 +1,3 @@
-
----
-
-## ✅ 3. Gamix – Gaming Product Store UI
-
-```markdown
 # 🎮 Gamix – Gaming Store Frontend UI
 
 **Gamix** is a beautifully designed gaming products store frontend built with **Next.js** and **Tailwind CSS**. It showcases gaming gear with a modern, fast, and responsive UI.
