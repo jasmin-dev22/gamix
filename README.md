@@ -1,8 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## ✅ 3. Gamix – Gaming Product Store UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# 🎮 Gamix – Gaming Store Frontend UI
+
+**Gamix** is a beautifully designed gaming products store frontend built with **Next.js** and **Tailwind CSS**. It showcases gaming gear with a modern, fast, and responsive UI.
+
+### 🚀 Live Demo
+[🔗 Visit Gamix](https://gamix-22.vercel.app/)
+
+---
+
+### 🛠️ Tech Stack
+- Next.js
+- Tailwind CSS
+- Responsive UI Design
+
+---
+
+### ✨ Features
+- Homepage, product details, and categories
+- Clean layout with reusable components
+- Fully mobile responsive
+- Optimized image assets and grid layouts
+
+---
+
+### 📁 Folder Structure
+- `/components`: All UI sections
+- `/app`: Route-based layouts and pages
+
+---
+
+### 💻 Run Locally
+```bash
+git clone https://github.com/your-username/gamix.git
+cd gamix
+npm install
+npm run dev
